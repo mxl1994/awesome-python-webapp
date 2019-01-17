@@ -1,2 +1,1 @@
-学习仓库
-git不跟踪空目录
+stores static files.
